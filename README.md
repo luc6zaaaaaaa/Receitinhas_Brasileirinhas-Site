@@ -142,7 +142,7 @@ Nenhuma dependência complexa! O projeto utiliza tecnologias **Vanilla Web** (HT
 
 ```bash
 # 1. Clone o repositório
-git clone https://github.com/luc6zaaaaaaa/Receitinhas_Brasileirinhas-Site.git
+git clone https://github.com/imlucsz/Receitinhas_Brasileirinhas-Site.git
 
 # 2. Navegue até a pasta
 cd site
